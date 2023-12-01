@@ -11,4 +11,4 @@ A01736353 Alejandro Daniel Moctezuma Cruz
 
 ## Archivo a revisar
 
-El archivo principal es **CAMBIARAQUI.py**, mismo que cuenta con la solución al problema.
+El archivo principal es **Final.py**, mismo que cuenta con la solución al problema.
