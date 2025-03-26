@@ -1,14 +1,6 @@
-# E2_ActIntegradora3_AlgoritmoDinic
-Poner en práctica el cálculo del flujo máximo en una red.
+# Dynic's Algorithm
+Calculating the maximum flow in a network using Dinic's algorithm and Python.
 
-
-A01736594 Daniela Lozada Bracamontes
-
-
-A01736353 Alejandro Daniel Moctezuma Cruz
-
-
-
-## Archivo a revisar
-
-El archivo principal es **Final.py**, mismo que cuenta con la solución al problema.
+## Contributors
+Daniela Lozada Bracamontes
+Alejandro Daniel Moctezuma Cruz
